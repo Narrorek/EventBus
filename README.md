@@ -197,13 +197,11 @@ eventBus.notify(FooEvent.self) { subscriber in
 
 ## Installation
 
-The recommended way to add **EventBus** to your project is via [Carthage](https://github.com/Carthage/Carthage):
+SPM:
 
-    github 'regexident/EventBus'
+```swift
 
-Or to add **EventBus** to your project is via [CocoaPods](https://cocoapods.org):
-
-    pod 'Swift-EventBus'
+```
 
 ## License
 
